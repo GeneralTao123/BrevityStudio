@@ -495,7 +495,7 @@ body, html {
                     color: light grey;
                     position: absolute;
                     top: 80%;
-                    left: 35%;
+                    left: 32%;
                     font-size: 35px;
                   }
           
@@ -503,7 +503,7 @@ body, html {
                     color: green;
                     position: absolute;
                     top: 80%;
-                    left: 50%;
+                    left: 47%;
                     font-size: 35px;
                   }
           
@@ -511,8 +511,8 @@ body, html {
                     background-color: green;
                     color: white;
                     position: absolute;
-                    bottom: 20%;
-                    left: 50%;
+                    bottom: 30%;
+                    left: 40%;
                     font-size: 30px;
                   }
           
@@ -538,7 +538,7 @@ body, html {
                     width: 50%;
                     height: 100%;
                     top: 40%;
-                    left: 55%;
+                    left: 60%;
                   }
             
           }
