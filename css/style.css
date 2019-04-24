@@ -22,18 +22,18 @@ body, html {
           .startButton{
               height: 120px;
               width: 680px;
-              bottom: 30%;
-              left: 25%;
+              bottom: 10%;
+              left: 35%;
               background-color: rgb(255, 255, 255);
-              border-radius: 50%;
+              border-radius: 10%;
               position: absolute;
             }
           
             .startText{
               position: absolute;
               text-align: center;
-              left: 20%;
-              bottom: 30%;
+              left: 30%;
+              bottom: 10%;
               width: 100%;
               font-size: 50px;
               color: #3286E4;
