@@ -320,8 +320,8 @@ body, html {
             position: absolute;
             top: 65%;
             left: 75%;
-            width: 50%;
-            height: 50%;
+            width: 60%;
+            height: 60%;
           }
           
           .background{
@@ -522,6 +522,12 @@ body, html {
                     position: absolute;
                     left: 12%;
                   }
-          
+                  
+                    .completed{
+                    position: absolute;
+                    top: 80%;
+                    left: 40%;
+                    font-size: 40px;
+                  }
             
           }
