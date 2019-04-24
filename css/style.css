@@ -446,8 +446,9 @@ body, html {
                   }
           
                   input {
-                    top: 50%;
+                    top: 30%;
                     display: block;
+                    position absolute
                     width: 80%;
                     padding: 8px;
                     border: 1px solid gray;
