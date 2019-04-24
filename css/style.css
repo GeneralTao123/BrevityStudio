@@ -233,5 +233,10 @@ body, html {
                     left: 31%;
                     position: absolute;
                   }
+          
+          button{
+          border-radius: 0%;
+          }
+          
             
           }
