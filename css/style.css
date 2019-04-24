@@ -337,8 +337,8 @@
           .startButton{
               height: 120px;
               width: 680px;
-              top: 90%;
-              left: 15%;;
+              bottom: 30%;
+              left: 25%;
               background-color: rgb(255, 255, 255);
               border-radius: 50%;
               position: absolute;
@@ -347,8 +347,8 @@
             .startText{
               position: absolute;
               text-align: center;
-              left: 9%;
-              top: 99%;
+              left: 20%;
+              bottom: 30%;
               width: 100%;
               font-size: 50px;
               color: #3286E4;
