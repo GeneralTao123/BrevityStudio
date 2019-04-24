@@ -22,8 +22,8 @@ body, html {
           .startButton{
               height: 120px;
               width: 680px;
-              top: 70%;
-              left: 50%;
+              top: 130%;
+              left: 58%;
               background-color: rgb(255, 255, 255);
               position: absolute;
             }
@@ -31,8 +31,8 @@ body, html {
             .startText{
               position: absolute;
               text-align: center;
-              left: 50%;
-              top: 70%;
+              top: 132%;
+              left: 53%;
               width: 100%;
               font-size: 50px;
               color: #3286E4;
