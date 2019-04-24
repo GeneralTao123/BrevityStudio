@@ -512,7 +512,7 @@ body, html {
                     color: white;
                     position: absolute;
                     bottom: 30%;
-                    left: 45%;
+                    left: 43%;
                     font-size: 40px;
                     border-radius: 10%;
                   }
@@ -539,7 +539,8 @@ body, html {
                     width: 50%;
                     height: 100%;
                     top: 40%;
-                    left: 80%;
+                    left: 50%;
+                    position: absolute;
                   }
             
           }
