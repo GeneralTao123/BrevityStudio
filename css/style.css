@@ -22,18 +22,17 @@ body, html {
           .startButton{
               height: 120px;
               width: 680px;
-              bottom: 10%;
-              left: 35%;
+              top: 70%;
+              left: 50%;
               background-color: rgb(255, 255, 255);
-              border-radius: 10%;
               position: absolute;
             }
           
             .startText{
               position: absolute;
               text-align: center;
-              left: 30%;
-              bottom: 10%;
+              left: 50%;
+              top: 70%;
               width: 100%;
               font-size: 50px;
               color: #3286E4;
@@ -137,7 +136,7 @@ body, html {
                     top: 50%;
                     left: 40%;
                     display: block;
-                    position absolute
+                    position: absolute;
                     width: 80%;
                     padding: 8px;
                     margin: auto;
