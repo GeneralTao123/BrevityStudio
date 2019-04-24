@@ -190,6 +190,16 @@ body, html {
                     font-size: 40px;
                   }
           
+                    .nextBtn{
+                    background-color: green;
+                    color: white;
+                    position: absolute;
+                    top: 80%;
+                    left: 50%;
+                    font-size: 40px;
+                    border-radius: 0;
+                  }
+          
                   .confirm{
                     background-color: green;
                     color: white;
