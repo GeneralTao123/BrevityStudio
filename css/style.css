@@ -512,8 +512,9 @@ body, html {
                     color: white;
                     position: absolute;
                     bottom: 30%;
-                    left: 40%;
-                    font-size: 30px;
+                    left: 50%;
+                    font-size: 40px;
+                    border-radius: 10%;
                   }
           
                   .completeInfo{
@@ -538,7 +539,7 @@ body, html {
                     width: 50%;
                     height: 100%;
                     top: 40%;
-                    left: 60%;
+                    left: 70%;
                   }
             
           }
