@@ -151,9 +151,10 @@ body, html {
                     color: #333;
                     transform: rotate(45deg);
                     cursor: pointer;
-                    &:hover {
-                      color: #666;
                     }
+          
+                  .close:hover {
+                    color: #666;
                   }
           
                   /* Modal Content ------------------------------------------------------------------------------*/
@@ -181,7 +182,7 @@ body, html {
                   }
           
                   .backButton{
-                    color: light grey;
+                    background-color: lightgrey;
                     position: absolute;
                     top: 80%;
                     left: 32%;
@@ -190,7 +191,8 @@ body, html {
                   }
           
                   .confirm{
-                    color: green;
+                    background-color: green;
+                    color: white;
                     position: absolute;
                     top: 80%;
                     left: 47%;
