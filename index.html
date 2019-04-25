@@ -12,7 +12,15 @@
   </head>
 
   <body>
+	  
+      <audio id="myAudio">
+        <source src="img/3D Printer Sound.mp3" type="audio/mpeg">
+      </audio>
+	  
     <script>
+	    
+	  var x = document.getElementById("myAudio"); 
+	    
     function myFunction(x) {
 
       if (x.classList.toggle("change")){
@@ -64,7 +72,12 @@
     }
 
     function doneProcess(){
-      location.reload();
+      x.play();
+   
+      setTimeout( function() {
+        window.location.reload(true);
+    },12000);
+
     }
 
     // Check browser support
