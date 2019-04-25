@@ -246,9 +246,17 @@ body, html {
                     position: absolute;
                   }
           
-          button{
-          border-radius: 0%;
-          }
+                  button{
+                  border-radius: 0%;
+                  }
           
+                    #inputBox{
+                      font-size: 24px;
+                      height: 100px;
+                    }
+
+                    #inputChoice{
+                      font-size: 24px;
+                    }
             
           }
