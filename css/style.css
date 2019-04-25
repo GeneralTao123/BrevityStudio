@@ -253,6 +253,7 @@ body, html {
                     #inputBox{
                       font-size: 24px;
                       height: 100px;
+                      margin-top: 1em;
                     }
 
                     #inputChoice{
